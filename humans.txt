@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arjuun arjuun@git.training @arjuunps
 
 # THANKS
 
